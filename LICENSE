@@ -1,0 +1,16 @@
+Copyright (c) 2025 CLUBREM HOLDINGS, LLC
+
+Permission is hereby granted to view, copy, and run this software
+for non-commercial research, evaluation, and educational purposes only.
+
+This repository publishes reference implementations and proof artifacts
+demonstrating deterministic reduce → expand → verify infrastructure patterns.
+
+Commercial use, production deployment, SaaS offerings, managed services,
+or integration into proprietary or open-source products is NOT permitted
+without an explicit commercial license.
+
+This software is provided "AS IS", without warranty of any kind.
+
+For commercial licensing inquiries, contact:
+REM@CLUBREMIP.com / REM
