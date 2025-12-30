@@ -1,0 +1,26 @@
+{
+  "created_at_utc": "2025-12-30T01:26:01.064491Z",
+  "input": "datasets/sample_numpy/failures_small.npz",
+  "mvp": "mvp2_failure_archive_modes_numpy",
+  "notes": {
+    "deterministic_components": [
+      "fingerprinting (sha256)",
+      "artifact manifests",
+      "stable saved representatives"
+    ],
+    "heuristic_components": [
+      "failure clustering by cosine similarity threshold"
+    ]
+  },
+  "original_failures_sha256": "ded6739dd9f2f1d1ed15a1a411f4587fde591e8cd2d879cc04383c8d336d9a32",
+  "original_failures_shape": [
+    110,
+    16
+  ],
+  "rr_modes": 0.03636363636363636,
+  "unique_modes_sha256": "26648a01c5286455b30534ca14efe579eaab338d463a6588025ed9f6a81f05ed",
+  "unique_modes_shape": [
+    4,
+    16
+  ]
+}

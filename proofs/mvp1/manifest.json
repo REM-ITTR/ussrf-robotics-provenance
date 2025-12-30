@@ -1,0 +1,26 @@
+{
+  "created_at_utc": "2025-12-30T01:22:14.955575Z",
+  "expanded_sha256": "ff97cc0388069b7cefb1217ab559133053fcb7734e31cede3255f2cf7fd4e89f",
+  "expansion_map": {
+    "inverse_index_len": 65,
+    "note": "expanded = reduced_unique[inverse_index]"
+  },
+  "input": "datasets/sample_numpy/traj_small.npz",
+  "mvp": "mvp1_corpus_provenance_numpy",
+  "original_sha256": "ff97cc0388069b7cefb1217ab559133053fcb7734e31cede3255f2cf7fd4e89f",
+  "original_shape": [
+    65,
+    6
+  ],
+  "output_reduced": "outputs/mvp1/reduced.npz",
+  "reduced_sha256": "e1bcc6d8910a0df1b7b7000c115091b65aab91466ca3e6735c382a2211e0044d",
+  "reduced_shape": [
+    40,
+    6
+  ],
+  "rr_rows": 0.6153846153846154,
+  "verification": {
+    "byte_equal_after_expand": true,
+    "sha256_equal_after_expand": true
+  }
+}
